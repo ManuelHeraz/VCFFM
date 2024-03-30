@@ -22,7 +22,7 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Dance Hall Days",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM4-DanceHallDays" //name here
@@ -39,14 +39,14 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Billie Jean",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM6-BillieJean" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Self Control",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM7-SelfControl" //name here
@@ -60,14 +60,14 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Call Me",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM9-CallMe" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Kiss The Dirt",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM10-KissTheDirt" //name here
@@ -81,28 +81,28 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Run To You",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM12-RunToYou" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Owner Of A Lonely Heart",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM13-OwnerOfALonelyHeart" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Video Killed The Radio Star",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM14-VideoKilledTheRadioStar" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Japanese Boy",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM15-JapaneseBoy" //name here
@@ -116,14 +116,14 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Life Is What You Make It",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM17-LifesWhatYouMakeIt" //name here
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Your Love",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM18-YourLove" //name here
@@ -137,7 +137,7 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Steppin Out",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM20-SteppinOute" //name here
@@ -151,7 +151,7 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "One Things Leads To Another",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM22-OneThingsLeadsToAnother" //name here
@@ -165,7 +165,7 @@ let allMusic = [
     },
 
     {
-        name: "Flash FM Radio Station",//music name
+        name: "Running With The Night",//music name
         artist: "Flash FM", // artist name
         img:"FlashFMCover", // image name
         src: "FlashFM24-RunningWithTheNight" //name here
